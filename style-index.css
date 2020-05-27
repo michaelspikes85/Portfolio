@@ -1,0 +1,11 @@
+main div p {
+  margin-left: 5px;
+}
+
+#top-border {
+  border-radius: 10px 10px 0px 0px;
+}
+
+#bottom-border {
+  border-radius: 0px 0px 10px 10px;
+}

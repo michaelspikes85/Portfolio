@@ -2,10 +2,23 @@ main div p {
   margin-left: 5px;
 }
 
-#top-border {
+.top-border {
   border-radius: 10px 10px 0px 0px;
 }
 
 #bottom-border {
+  border-radius: 0px 0px 10px 10px;
+}
+
+li.list-group-item {
+  background-color: black;
+  color: gold;
+}
+
+li.list-group-item.top-border {
+  border-radius: 10px 10px 0px 0px;
+}
+
+li.list-group-item.bottom-border {
   border-radius: 0px 0px 10px 10px;
 }

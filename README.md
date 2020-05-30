@@ -1,7 +1,5 @@
-# Week-2-Homework
-
-My Bio
-Simple bio on myself.
+# Portfolio
+Portfolio and Bio of myself and my accomplishments
 
 Getting Started
 N/A
@@ -34,10 +32,10 @@ Versioning
 N/A
 
 Authors
-• Michael Spikes - All work
+• Michael Spikes
 
 License
 N/A
 
 Acknowledgments
-Thank you to Tyler for helping me figure out some of the code!
+N/A
